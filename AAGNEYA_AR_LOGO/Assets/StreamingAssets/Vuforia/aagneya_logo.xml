@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="IMG_20180205_160524-02" size="100.000000 96.938316" />
+    <ImageTarget name="IMG_20180205_160524-01" size="50.000000 30.000000" />
+    <ImageTarget name="Aagneya_GECB_Logo" size="50.000000 64.208633" />
+  </Tracking>
+</QCARConfig>
